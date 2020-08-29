@@ -2,7 +2,7 @@
 
 Consulta el curso completo de estadística creado por **Ricardo Alberich**, Juan Gabriel Gomila y Arnau Mir solamente en [Udemy](https://www.udemy.com/course/estadisticainferencial/?couponCode=558B1259A85F3C62C9F9)
 
-Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido de estadística inferencial del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
+Asienta las bases para convertirte en el *Data Scientist* del futuro con todo el contenido de estadística inferencial del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
 
 1. Muestreo estadístico
 2. Estimación puntual
